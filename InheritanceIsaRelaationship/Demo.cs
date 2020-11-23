@@ -15,6 +15,7 @@ namespace InheritanceIsaRelaationship
             obj.fun2();
             obj.fun3();
             obj.fun4();
+            Console.WriteLine("successfull");
         }
     }
 }
